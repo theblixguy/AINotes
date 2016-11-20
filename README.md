@@ -1,5 +1,7 @@
 # AINotes
 
+BUILT AT OXFORDHACK 2016
+
 ## Inspiration
 
 We all use Note taking apps like Evernote or Google Keep (some of us use them pretty heavily), but AI/Machine Learning could make the experience more richer and user friendly.
