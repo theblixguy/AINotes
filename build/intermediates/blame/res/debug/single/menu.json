@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/menu/menu_search.xml",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/menu/menu_search.xml"
+    }
+]

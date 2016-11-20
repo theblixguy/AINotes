@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_white_48dp.png",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/drawable-xxhdpi/ic_add_white_48dp.png"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_check_white_48dp.png",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/drawable-xxhdpi/ic_check_white_48dp.png"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_search_white_48dp.png",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/drawable-xxhdpi/ic_search_white_48dp.png"
+    }
+]

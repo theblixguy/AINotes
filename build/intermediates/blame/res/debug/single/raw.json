@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note1.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note1.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note7.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note7.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note2.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note2.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note5.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note5.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note8.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note8.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note6.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note6.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note9.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note9.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note3.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note3.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note10.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note10.txt"
+    },
+    {
+        "merged": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/build/intermediates/res/merged/debug/raw/note4.txt",
+        "source": "/Users/suyashsrijan/AndroidStudioProjects/AINotes/app/src/main/res/raw/note4.txt"
+    }
+]

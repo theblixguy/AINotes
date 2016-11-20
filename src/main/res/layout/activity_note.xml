@@ -1,0 +1,107 @@
+<RelativeLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.Toolbar
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:background="#E91E63"
+            android:elevation="4dp"
+            android:minHeight="56dp">
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <com.wrapp.floatlabelededittext.FloatLabeledEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <EditText
+                        android:id="@+id/noteTitleText"
+                        style="@style/EditTextHeadline"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Title"
+                        android:paddingBottom="16dp"
+                        android:paddingTop="16dp" />
+
+                </com.wrapp.floatlabelededittext.FloatLabeledEditText>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="8dp" />
+
+
+                <com.wrapp.floatlabelededittext.FloatLabeledEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <EditText
+                        android:id="@+id/noteSubtitleText"
+                        style="@style/EditTextSubhead"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Subtitle"
+                        android:paddingBottom="12dp"
+                        android:paddingTop="12dp" />
+
+                </com.wrapp.floatlabelededittext.FloatLabeledEditText>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="16dp" />
+
+
+            </LinearLayout>
+
+        </android.support.v7.widget.Toolbar>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/noteText"
+                android:paddingTop="20dp"
+                android:divider="@null"
+                android:inputType="textMultiLine"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:scrollbars="vertical" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabSaveNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_check_white_48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="26dp"
+        android:layout_marginBottom="26dp"
+        app:elevation="6dp"
+        app:borderWidth="0dp"
+        app:pressedTranslationZ="12dp"
+        app:backgroundTint="#E91E63"
+        app:rippleColor="#C2185B" />
+</RelativeLayout>

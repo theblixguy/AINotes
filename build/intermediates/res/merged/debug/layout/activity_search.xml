@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/toolbar_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary" />
+
+        <br.com.mauker.materialsearchview.MaterialSearchView
+            android:id="@+id/search_view"
+            style="@style/MaterialSearchViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <com.dexafree.materialList.view.MaterialListView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/searchList"
+        android:layout_below="@+id/toolbar_container" />
+
+</RelativeLayout>
